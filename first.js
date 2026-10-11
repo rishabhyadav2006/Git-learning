@@ -25,3 +25,8 @@ console.log(scanner);
 
 
 console.log("latest update ")
+
+
+// I am fixing some bugs
+
+console.log("Bug Fixed");
