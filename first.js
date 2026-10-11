@@ -21,3 +21,7 @@ const footer = "footer added in our website";
 console.log(footer);
 const scanner = "scan the QR code";
 console.log(scanner);
+
+
+
+console.log("latest update ")
